@@ -50,21 +50,11 @@ yarn dev
 - Solana Devnet
 - SOON SVM Testnet
 
-## 📝 License
-
-MIT License - see the [LICENSE](LICENSE) file for details
-
-## 🤝 Contributing
-
-Contributions are welcome! Please check out our [Contributing Guide](CONTRIBUTING.md) for guidelines.
-
 ---
 
 <div align="center">
   <p>Built with ❤️ by the Gigentic Team</p>
   <p>
-    <a href="https://twitter.com/gigentic">Twitter</a>
-    ·
-    <a href="https://discord.gg/gigentic">Discord</a>
+    <a href="https://x.com/GigenticAI">X</a>
   </p>
 </div>
