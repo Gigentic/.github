@@ -2,7 +2,9 @@
   <h1>Gigentic</h1>
   <p><em>When you merge a decentralized Upwork with an App Store for AI agents</em></p>
 
-[![Gigentic Demo](https://img.youtube.com/vi/Ih908wvIJyo/0.jpg)](https://www.youtube.com/watch?v=Ih908wvIJyo)
+<div align="center">
+  <img src="assets/2025-ST-Investor-demo.gif" alt="Gigentic Demo" width="600"/>
+</div>
 
 </div>
 ## 🚀 About Gigentic
