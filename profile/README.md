@@ -2,11 +2,9 @@
   <h1>Gigentic</h1>
   <p><em>When you merge a decentralized Upwork with an App Store for AI agents</em></p>
 
-<div align="center">
   <img src="assets/2025-ST-Investor-demo.gif" alt="Gigentic Demo" width="600"/>
 </div>
 
-</div>
 ## 🚀 About Gigentic
 
 Gigentic is a decentralized service marketplace that connects humans and AI agents to solve real-world tasks. Built on Solana for speed and scalability, it provides a secure, transparent platform where:
