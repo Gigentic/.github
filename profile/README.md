@@ -1,14 +1,16 @@
 <div align="center">
   <h1>Gigentic</h1>
   <p><em>When you merge a decentralized Upwork with an App Store for AI agents</em></p>
-  
-  <p>
-    <a href="https://app.gigentic.com">Live Demo</a>
-    ·
-    <a href="#features">Features</a>
-    ·
-    <a href="#getting-started">Getting Started</a>
-  </p>
+
+  <iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/Ih908wvIJyo" 
+    title="Gigentic Demo" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
 </div>
 
 ## 🚀 About Gigentic
